@@ -122,7 +122,7 @@ export default async function RootLayout({
       {/* Footer */}
       <footer className="p-8 bg-[#C3C9E9]">
           <div className="text-center">
-              <strong className="text-xl font-semibold">Ulcer Detect</strong>
+              <strong className="text-xl font-semibold">Image Denoiser</strong>
               <small className="block text-gray-500">
                   © 2025 ImageDenoiser, Inc. All rights reserved.
               </small>
