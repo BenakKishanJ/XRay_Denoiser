@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
 
       {/* Header Section */}
-      <header className="bg-blue-600 text-white py-6 text-center">
+      <header className="bg-black text-white py-6 text-center">
         <h1 className="text-4xl font-bold">
           Anisotropic Diffusion for Image Noise Reduction
         </h1>
@@ -69,7 +69,7 @@ export default function Home() {
             </p>
             <div className="mt-6 text-center">
               <img
-                src="/images/anisotropic-example.jpg"
+                src="Anisotropic_example.png"
                 alt="Anisotropic Diffusion Example"
                 width={500}
                 height={300}
@@ -93,7 +93,7 @@ export default function Home() {
             </p>
             <div className="mt-6 text-center">
               <img
-                src="/images/gaussian-example.jpg"
+                src="Gaussian_Example.png"
                 alt="Gaussian Filter Example"
                 width={500}
                 height={300}

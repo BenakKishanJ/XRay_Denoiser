@@ -140,8 +140,8 @@ export default function Scan() {
               <Image
                 src={`http://127.0.0.1:5000${url}`}
                 alt={key}
-                width={800} // Increased size
-                height={800} // Increased size
+                width={3000} // Increased size
+                height={3000} // Increased size
                 className="rounded-lg object-cover mb-2"
               />
             </div>

@@ -16,7 +16,7 @@ export default function Resources() {
       </Head>
 
       {/* Header Section */}
-      <header className="bg-blue-600 text-white py-6 text-center">
+      <header className="bg-black text-white py-6 text-center">
         <h1 className="text-4xl font-bold">Image Filtering Resources</h1>
         <p className="mt-2 text-lg">
           Study material on Anisotropic Diffusion and Gaussian Filters with
@@ -97,7 +97,7 @@ export default function Resources() {
 
           <div className="mt-6 text-center">
             <img
-              src="/images/anisotropic-diffusion-formula.png"
+              src="Anisotropic_Diagram.png"
               alt="Anisotropic Diffusion Process"
               width={600}
               height={400}
@@ -156,7 +156,7 @@ export default function Resources() {
 
           <div className="mt-6 text-center">
             <img
-              src="/images/gaussian-filter-example.jpg"
+              src="Gaussian_Diagram.png"
               alt="Gaussian Filter Process"
               width={600}
               height={400}
@@ -184,7 +184,8 @@ export default function Resources() {
       {/* Footer Section */}
       <footer className="bg-blue-600 text-white py-6 text-center">
         <p>
-          Developed by Your Name | Computer Graphics & Image Processing Resource
+          Developed by Benak and Dhanush | Computer Graphics & Image Processing
+          Resource
         </p>
       </footer>
     </div>
