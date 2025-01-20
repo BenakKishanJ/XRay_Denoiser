@@ -45,3 +45,8 @@ next-env.d.ts
 
 # Python Virtual Environment
 venv/
+
+# Output Processed images
+uploads/
+outputs/
+processed/
